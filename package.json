@@ -1,14 +1,21 @@
 {
-  "name": "react-native-screen-brightness",
-  "version": "0.3.2",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Atticus White <contact@atticuswhite.com> (http://atticuswhite.com/)",
-  "license": "MIT",
-  "Dependencies": {
-    "react-native": "^0.27.0"
-  }
+	"name": "react-native-screen-brightness",
+	"version": "0.3.3",
+	"description": "",
+	"main": "index.js",
+	"repository": "github:sibest19/react-native-screen-brightness",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Atticus White <contact@atticuswhite.com> (http://atticuswhite.com/)",
+	"contributors": [
+		{
+			"name": "Simone Andreani",
+			"email": "andreanisimone@gmail.com"
+		}
+	],
+	"license": "MIT",
+	"Dependencies": {
+		"react-native": "^0.27.0"
+	}
 }
